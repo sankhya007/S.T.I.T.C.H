@@ -35,6 +35,11 @@ A deep learning-based system to **parse architectural floorplans**, extract stru
 
   - Raw probability maps (`debug_raw_mask.png`) added
   - Helps analyze model confidence before thresholding
+ 
+- **Added trained weights**
+  - here is the direct link to the trained weights in hugging face
+     https://huggingface.co/sankhya007/Floorplan_parser_STITCH/tree/main
+  - download it and make sure that it is in yout root folder 
 
 
 ## Results
